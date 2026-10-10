@@ -1,0 +1,10 @@
+(librepcb_package_category 52a596cb-7d7e-446a-944c-f631be387ec9
+ (name "KiCad Import")
+ (description "Imported library elements.")
+ (keywords "kicad")
+ (author "KiCad Import")
+ (version "0.1")
+ (created 2026-10-10T20:44:14Z)
+ (deprecated false)
+ (parent none)
+)

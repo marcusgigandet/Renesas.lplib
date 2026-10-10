@@ -1,0 +1,11 @@
+(librepcb_library 55b8d992-a71a-41d5-89e5-1aa6b21128b4
+ (name "Renesas")
+ (description "Semiconductors by Renesas (unofficial)")
+ (keywords "")
+ (author "Marcus Gigandet")
+ (version "0.1")
+ (created 2026-10-10T20:39:25Z)
+ (deprecated false)
+ (url "https://github.com/marcusgigandet/Renesas.lplib")
+ (manufacturer "Renesas")
+)
